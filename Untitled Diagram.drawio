@@ -414,6 +414,9 @@
         <mxCell id="plxsFx_7yQHbW9Dpd9H5-42" edge="1" parent="1" source="plxsFx_7yQHbW9Dpd9H5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" target="plxsFx_7yQHbW9Dpd9H5-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-3QkL5Er8FhonbChtMMz-1" edge="1" parent="1" source="plxsFx_7yQHbW9Dpd9H5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="plxsFx_7yQHbW9Dpd9H5-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="plxsFx_7yQHbW9Dpd9H5-35" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;shadow=1;" value="Manager" vertex="1">
           <mxGeometry height="40" width="100" x="580" y="90" as="geometry" />
         </mxCell>
@@ -427,7 +430,7 @@
           <mxGeometry height="40" width="100" x="700" y="160" as="geometry" />
         </mxCell>
         <mxCell id="plxsFx_7yQHbW9Dpd9H5-43" parent="1" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;shadow=1;" value="email" vertex="1">
-          <mxGeometry height="40" width="100" x="590" y="20" as="geometry" />
+          <mxGeometry height="40" width="100" x="580" y="20" as="geometry" />
         </mxCell>
         <mxCell id="plxsFx_7yQHbW9Dpd9H5-45" edge="1" parent="1" source="plxsFx_7yQHbW9Dpd9H5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" target="plxsFx_7yQHbW9Dpd9H5-35">
           <mxGeometry relative="1" as="geometry" />
